@@ -1,7 +1,18 @@
 # Head
 
+
+
+
+
+
+
+
+
+
+
 >Quote
 
+<<<<<<< HEAD
 Companies:
 
 * PKKR
@@ -13,3 +24,12 @@ FS: BS, P&L
 
 <em>Italic</em> <br>
 <strong>Bold in HTML</strong>
+=======
+Products:
+
+1. First
+2. Second
+3. Third
+
+<print("hello world")>
+>>>>>>> list
