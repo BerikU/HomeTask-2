@@ -10,30 +10,23 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 >Quote
 
-1. Row 1
-2. Row 2
-3. Row 3
+Companies:
 
-[Ref][https://google.com]
+* PKKR
+* Kolzhan
+
+FS: BS, P&L
+
+*Italic*
+
+<em>Italic</em> <br>
+<strong>Bold in HTML</strong>
+Products:
+
+1. First
+2. Second
+3. Third
+
+<print("hello world")>
