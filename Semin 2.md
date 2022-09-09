@@ -32,3 +32,5 @@ Products:
 <print("hello world")>
 
 Addit info 09.09.2022
+
+Adjustments were accepted
